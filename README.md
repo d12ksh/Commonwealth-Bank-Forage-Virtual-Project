@@ -23,10 +23,12 @@ CommBank’s Forage virtual internships offer a fantastic opportunity to:
 ✅ Gain hands-on experience and practical skills.
 
 ✅ Enhance your resume with real-world projects.
+
 ✅ Learn about CommBank’s work culture, which can be beneficial for future job opportunities.
 
 I successfully completed all four challenges in this simulation. You can find the solutions in the respective files above.
 
 # Learn more & enroll in the program:
+
 CommBank Forage Virtual Internship 
 https://www.google.com/search?q=https://www.theforage.com/employers/commonwealth-bank/programs
